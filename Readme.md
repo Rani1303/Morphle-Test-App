@@ -23,3 +23,6 @@ A Flask application that displays system information through a web interface.
    ```
    http://localhost:5000/htop
    ```
+
+
+![alt text](image.png)
