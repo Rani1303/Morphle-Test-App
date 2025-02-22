@@ -16,7 +16,7 @@ A Flask application that displays system information through a web interface.
 
 2. Run the application:
    ```bash
-   python app.py
+   python main.py
    ```
 
 3. Access the endpoint at:
